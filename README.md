@@ -1,6 +1,11 @@
 # Multi-source-uncertainty
 
-Codes related with "Leveraging Multi-Source Data for Materials Property Prediction by Quantifying and Incorporating Data Uncertainty: A Case Study in Ferroelectrics"
+Data and codes related with "Uncertainty-Aware Multi-Source Modeling for Materials Property Prediction: A Case Study in Ferroelectrics".
 
-Requirements
-R 4.4.1
+## Requirements
+- R 4.4.1
+
+## Project Structure
+
+This project implements a resampling-based approach for quantifying sample or source specific uncertainties of material properties, with a focus on ferroelectrics. The resulting uncertainties are embedded into a Kriging surrogate model, enabling adaptive weighting of data according to reliability, supporting seperately treating multi-source data.
+Since the code for the four properties (corresponding to four folders) is very similar, we recommend referring to the R script in any folder to understand the code structure and how to apply this method to other multi-source materials data.
