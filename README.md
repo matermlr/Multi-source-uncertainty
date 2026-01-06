@@ -16,4 +16,4 @@ Since the code for the four properties (corresponding to four folders) is very s
 
 ## Raw Measurements
 
- The raw measurement files for the P–E and S–E loops of the five validation samples are included in the folder "P-E S-E measurement files" in txt formm, as exported from the Radiant equipment.
+ The raw measurement files for the P–E and S–E loops of the five validation samples are included in the folder "P-E S-E measurement files" in TXT form, as exported from the Radiant equipment.
