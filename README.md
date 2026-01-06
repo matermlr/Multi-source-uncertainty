@@ -13,3 +13,7 @@ Since the code for the four properties (corresponding to four folders) is very s
 - Each folder contains the original multi-source data and a R script.
 - The R script integrates data preprocessing, feature selection (alternative), bootstrap ensemble, uncertainty quantification and optimization, surrogate model training, model evaluation and figure plotting (alternative).
 - One can directly run the R script with original data, required packages are listed in the script.
+
+## Raw Measurements
+
+ The raw measurement files for the P–E and S–E loops of the five validation samples are included in the folder "P-E S-E measurement files" in txt formm, as exported from the Radiant equipment.
