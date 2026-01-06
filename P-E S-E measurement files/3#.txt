@@ -1,27 +1,27 @@
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Hysteresis ««««««««««««««««««««««««««««««««««««
-»»»  Version:			4.6.11
-»»»  Vision Version:		4.6.5 (R)
-»»»  Vision Compiled:		7 December 2011
-»»»  Driver Version:		4.6.17
-»»»  Tester Name:		PPM21211-813
-»»»  Tester S/N:		PPM21211-813                    
-»»»  Internal Amp Type:		No Internal Amp
-»»»  Internal Amp S/N:		100000
-»»»  Execution Count:		0
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»««««««««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Hysteresis Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
+Â»Â»Â»  Version:			4.6.11
+Â»Â»Â»  Vision Version:		4.6.5 (R)
+Â»Â»Â»  Vision Compiled:		7 December 2011
+Â»Â»Â»  Driver Version:		4.6.17
+Â»Â»Â»  Tester Name:		PPM21211-813
+Â»Â»Â»  Tester S/N:		PPM21211-813                    
+Â»Â»Â»  Internal Amp Type:		No Internal Amp
+Â»Â»Â»  Internal Amp S/N:		100000
+Â»Â»Â»  Execution Count:		0
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 
 Stored:				5/16/2024 - 12:16:13
 Configured:			05/16/24 12:00:07 PM
 Executed:			05/16/24 12:15:49 PM
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Sample Info ««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Sample Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Sample Name:			
 Lot Name:			
 Wafer Name:			
 Die Row/Column:			0/0
 Capacitor Number:		0
 Sample Area (cm2):		1.01e+000
-Sample Thickness (µm):		1.11e+003
+Sample Thickness (Âµm):		1.11e+003
 
 Mux Loop Adjustment:		Disabled
 
@@ -30,12 +30,12 @@ HVI Channel/Port:		1/1
 Drive Gain Factor:			1000.00r
 Drive Voltage Limit:			4000.00r
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Tester Info «««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Tester Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Tester Name:			PPM21211-813
 Tester Serial Number:		PPM21211-813                    
 Return Signal Amp. Level:	0.00019
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Hysteresis Info ««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Hysteresis Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Task Name:			Hyst-2
 Volts:				2220.00
 Field:				20.00 (kV/cm)
@@ -49,7 +49,7 @@ Sensor Scale:			-0.05
 Sensor Impedance (Ohms):	50
 Sensor Label:			%
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Data «««««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Data Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Points:				1017
 
 Valid Data
@@ -1073,46 +1073,46 @@ Point		Time (ms)	Field (kV/cm)	Measured Polarization	Sensor
 1016		1.0008e+002	-0.3925		-4.1629		7.2039e-003
 1017		1.0017e+002	-0.2997		-4.0563		6.9946e-003
 
-PMax (µC/cm2):		1.10e+001
-Pr (µC/cm2):		3.56e+000
--Pr (µC/cm2):		-4.06e+000
+PMax (ÂµC/cm2):		1.10e+001
+Pr (ÂµC/cm2):		3.56e+000
+-Pr (ÂµC/cm2):		-4.06e+000
 Vc:			2.25e+002
 -Vc:			-1.90e+002
 C (Max-Eff) (nF):	4.97e+000
-Vert. Eccentricity (µC/cm2):	-2.50e-001
+Vert. Eccentricity (ÂµC/cm2):	-2.50e-001
 
 Horiz. Eccentricity (Volts):	1.71e+001
 
-Offset (µC/cm2):	1.73e+000
+Offset (ÂµC/cm2):	1.73e+000
 
 
 
 Hysteresis Version: 4.6.11 - Radiant Technologies, Inc., 1999 - 12/12/11
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Hysteresis ««««««««««««««««««««««««««««««««««««
-»»»  Version:			4.6.11
-»»»  Vision Version:		4.6.5 (R)
-»»»  Vision Compiled:		7 December 2011
-»»»  Driver Version:		4.6.17
-»»»  Tester Name:		PPM21211-813
-»»»  Tester S/N:		PPM21211-813                    
-»»»  Internal Amp Type:		No Internal Amp
-»»»  Internal Amp S/N:		100000
-»»»  Execution Count:		0
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»««««««««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Hysteresis Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
+Â»Â»Â»  Version:			4.6.11
+Â»Â»Â»  Vision Version:		4.6.5 (R)
+Â»Â»Â»  Vision Compiled:		7 December 2011
+Â»Â»Â»  Driver Version:		4.6.17
+Â»Â»Â»  Tester Name:		PPM21211-813
+Â»Â»Â»  Tester S/N:		PPM21211-813                    
+Â»Â»Â»  Internal Amp Type:		No Internal Amp
+Â»Â»Â»  Internal Amp S/N:		100000
+Â»Â»Â»  Execution Count:		0
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 
 Stored:				5/16/2024 - 12:17:37
 Configured:			05/16/24 12:00:07 PM
 Executed:			05/16/24 12:16:33 PM
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Sample Info ««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Sample Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Sample Name:			
 Lot Name:			
 Wafer Name:			
 Die Row/Column:			0/0
 Capacitor Number:		0
 Sample Area (cm2):		1.01e+000
-Sample Thickness (µm):		1.11e+003
+Sample Thickness (Âµm):		1.11e+003
 
 Mux Loop Adjustment:		Disabled
 
@@ -1121,12 +1121,12 @@ HVI Channel/Port:		1/1
 Drive Gain Factor:			1000.00r
 Drive Voltage Limit:			4000.00r
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Tester Info «««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Tester Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Tester Name:			PPM21211-813
 Tester Serial Number:		PPM21211-813                    
 Return Signal Amp. Level:	0.00019
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Hysteresis Info ««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Hysteresis Info Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Task Name:			Hyst-2
 Volts:				2220.00
 Field:				20.00 (kV/cm)
@@ -1140,7 +1140,7 @@ Sensor Scale:			-0.05
 Sensor Impedance (Ohms):	50
 Sensor Label:			%
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»» Data «««««««««««««««««««««««««««««««««««««««
+Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â»Â» Data Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«Â«
 Points:				1017
 
 Valid Data
@@ -2164,17 +2164,17 @@ Point		Time (ms)	Field (kV/cm)	Measured Polarization	Sensor
 1016		1.0008e+002	-0.3856		-4.5183		7.0245e-003
 1017		1.0017e+002	-0.2983		-4.4238		6.9273e-003
 
-PMax (µC/cm2):		1.09e+001
-Pr (µC/cm2):		3.89e+000
--Pr (µC/cm2):		-4.42e+000
+PMax (ÂµC/cm2):		1.09e+001
+Pr (ÂµC/cm2):		3.89e+000
+-Pr (ÂµC/cm2):		-4.42e+000
 Vc:			2.20e+002
 -Vc:			-2.07e+002
 C (Max-Eff) (nF):	4.96e+000
-Vert. Eccentricity (µC/cm2):	-2.65e-001
+Vert. Eccentricity (ÂµC/cm2):	-2.65e-001
 
 Horiz. Eccentricity (Volts):	6.43e+000
 
-Offset (µC/cm2):	1.65e+000
+Offset (ÂµC/cm2):	1.65e+000
 
 
 
