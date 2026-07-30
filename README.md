@@ -1,6 +1,8 @@
 # Multi-source-uncertainty
 
 Data and codes related with "Uncertainty-Aware Multi-Source Modeling for Materials Property Prediction: A Case Study in Ferroelectrics".
+Phys. Rev. Materials 10, 073806 – Published 29 July, 2026
+DOI: https://doi.org/10.1103/f987-876s
 
 ## Requirements
 - R 4.4.1
